@@ -1,0 +1,4 @@
+total 12
+drwx------  3 kali kali 4096 Aug  3 16:03 .
+drwx------ 18 kali kali 4096 Aug  3 14:40 ..
+drwx------  2 kali kali 4096 Aug  3 14:37 agent
